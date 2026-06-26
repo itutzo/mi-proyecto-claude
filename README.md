@@ -6,7 +6,7 @@ Este repositorio contiene mis experimentos y proyectos creados con Claude Code.
 
 Un espacio para explorar las capacidades de Claude Code y aprender a trabajar con Git y GitHub.
 
-## Como empezar
+## Cómo empezar
 
 1. Clona este repositorio
 2. Explora los archivos
